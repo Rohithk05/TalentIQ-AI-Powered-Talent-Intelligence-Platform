@@ -1,0 +1,13 @@
+src/components/layout/Sidebar.tsx(11,3): error TS6133: 'User' is declared but its value is never read.
+src/pages/CandidatePage.tsx(2,17): error TS6133: 'Sparkles' is declared but its value is never read.
+src/pages/CandidatePage.tsx(5,1): error TS6133: 'EmptyState' is declared but its value is never read.
+src/pages/InterviewSchedulerPage.tsx(2,20): error TS6133: 'Clock' is declared but its value is never read.
+src/pages/InterviewSchedulerPage.tsx(2,27): error TS6133: 'MapPin' is declared but its value is never read.
+src/pages/InterviewSchedulerPage.tsx(2,35): error TS6133: 'Search' is declared but its value is never read.
+src/pages/InterviewSchedulerPage.tsx(2,43): error TS6133: 'Briefcase' is declared but its value is never read.
+src/pages/InterviewSchedulerPage.tsx(2,54): error TS6133: 'Plus' is declared but its value is never read.
+src/pages/JobSearchPage.tsx(6,1): error TS6133: 'EmptyState' is declared but its value is never read.
+src/pages/SettingsPage.tsx(11,3): error TS6133: 'BellOff' is declared but its value is never read.
+src/pages/SettingsPage.tsx(29,9): error TS6133: 'navigate' is declared but its value is never read.
+src/pages/SkillsRoadmapPage.tsx(17,44): error TS6133: 'currentSkills' is declared but its value is never read.
+src/pages/UserProfilePage.tsx(2,10): error TS6133: 'User' is declared but its value is never read.
